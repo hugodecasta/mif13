@@ -27,7 +27,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | AB testing                    |               |                  |       |
 | WebAssembly                   | CURRANT, GRANDY, GUEUX              |                  |       |
 | TypeScript                    |               |                  |       |
-| JS Game Engines (ex: Crafty)  |               |                  |       |
+| JS Game Engines (ex: Crafty)  | CASTANEDA, CREVITS              |                  |       |
 | Web GL                        | NGUYEN, PHAM, NGUYEN, HUYNH              |                  |       |
 | Meteor                        | PEULTIER, FONTAINE, PHAM              |                  |       |
 | Rendr                         |               |                  |       |
