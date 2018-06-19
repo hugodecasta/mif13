@@ -1,5 +1,7 @@
 ## TP 8 : Progressive Web apps
 
+[TOC]
+
 
 
 ### Audit de l'application
@@ -14,7 +16,7 @@ Voici un exemple de résultat attendu à ce stade du projet :
 
 
 
-Nous allons maintenant traiter des problèmes signalés par Lighthouse.
+Nous allons maintenant traiter des problèmes signalés par LightHouse
 
 ### HTTPS
 
@@ -55,11 +57,11 @@ Afficher un spinner indiquant que le chargement est en cours.
 </noscript>
 ```
 
-
-
 ### Manifest
 
-Nous allons maintenant rédiger un [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest). Voir l'[exemple de la MSDN](https://developer.mozilla.org/en-US/docs/Web/Manifest) ou celui de [ Google](https://developers.google.com/web/fundamentals/web-app-manifest/)
+Nous allons maintenant rédiger un [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest). Voir l'[exemple de la MDN](https://developer.mozilla.org/en-US/docs/Web/Manifest) ou celui de [Google](https://developers.google.com/web/fundamentals/web-app-manifest/)
+
+<!-- Tu pourrais aussi pointer la spec, stp : https://www.w3.org/TR/appmanifest/ ? -->
 
 Vous pouvez utiliser ce [générateur d'icônes](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) (mais de très nombreux autres sont disponibles).
 
@@ -134,6 +136,8 @@ La mise en place des PWA étant plus avancée dans Chrome,  **ce TP sera corrig�
 
 ### Barême
 
+Qualité de l'application - 10 pts
+
 - README 
 - Rendu **propre** via Tomuss et la branche rendu-tp8
 - Structure de projet Vue et structure sur la forge propre (bon usage de .gitignore)
@@ -145,12 +149,11 @@ La mise en place des PWA étant plus avancée dans Chrome,  **ce TP sera corrig�
 - Les composants ont le bon niveau de responsabilité 
 - Utilisation appropriée de Vuetify
 
+Capteurs mobile et PWA - 17 pts
+
 - Utiliser la position géographique pour recherche un trajet (3 pts)
 - pseudo Réalité Augmenté (3 pts)
 - Détection des capacités du dispositif (2pts)
-
-
-
-### Références
-
-- 
+- App Shell (3pts)
+- App Manifest (3pts)
+- Service workers (3pts)

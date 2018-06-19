@@ -17,19 +17,19 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | [D3.js](https://d3js.org/)    | LAFOND, NUEL, MARRON                  |   22/05          |[Diapo](https://docs.google.com/presentation/d/1pElMn_OtNqT-9L2zLkzmYSgTIPEbftNvYiwmcJx601Y)       |
 | Less                          | DAVID, DE SOUSA, VIEIRA               |   27/03          |       |
 | Web RTC                       | GIBERT, LEFEBVRE, PALABOST            |   03/04          |[Diapo](https://drive.google.com/file/d/16ntywqpL2gbYif-1_z6_B8O02xLvSu-q/view?usp=sharing)|
-| AB testing                    | CHABOUD, CHEMIN, AUGUSTIN.            |   19/06          | |
+| AB testing                    | CHABOUD, CHEMIN, AUGUSTIN            |   19/06         | |
 | WebAssembly                   | CURRANT, GRANDY, GUEUX                |   26/06          |       |
 | TypeScript                    | SOW, DIALLO, VERA, MARIE MICHAEL RAJ  |   29/05          |       |
-| Web GL                        | NGUYEN, PHAM, NGUYEN, HUYNH           |   29/06          |       |
+| Web GL                        | NGUYEN, PHAM, NGUYEN, HUYNH           |   26/06          |       |
 | [Meteor](https://www.meteor.com)                        | PEULTIER, FONTAINE, PHAM              |   03/04          |[Diapo](https://docs.google.com/presentation/d/1OWK-K2rrSAeMlZMp_eipvFxwY2uFn0QP7g7msG_CHas)       |
-| A-Frame                       | JIMENEZ, LAFIOSCA, -place vacante-    |   22/05          |       |
-| [Django](https://www.djangoproject.com/) | BOZON , BELZUNCE , RAMOS TUBINO , FRITSCH | 20/02 |[Diapo](https://docs.google.com/presentation/d/1IVOVZdvF68tM90u75pcHQZ1S_smxvVn2hLf4em7HXbA)    |
+| A-Frame                       | JIMENEZ, LAFIOSCA    |   22/05          |       |
+| [Django](https://www.djangoproject.com/) | BOZON , BELZUNCE , RAMOS TUBINO, FRITSCH | 20/02 |[Diapo](https://docs.google.com/presentation/d/1IVOVZdvF68tM90u75pcHQZ1S_smxvVn2hLf4em7HXbA)    |
 | RequireJS                     | MOUSSA, LAM , LITIM                   |   19/06          |       |
-| CreateJS                      | ABDESSALEM, AIFA, CAN, DOUCOURE       |   29/06          |       |
-| PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   29/06          |       |
-| PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   29/06          |       |
-| Phaser                        | BOURDON, CHAY, PRADELLE               |   29/06          |       |
-| Progressive Web App           | LAINCEUR, DJEMAOUNE, -place vacante-  |   19/06          |       |
+| CreateJS                      | ABDESSALEM, AIFA, CAN, DOUCOURE       |   26/06          |       |
+| PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   26/06          |       |
+| PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   26/06          |       |
+| Phaser                        | BOURDON, CHAY, PRADELLE               |   26/06          |       |
+| Progressive Web App           | LAINCEUR, DJEMAOUNE  |   19/06          |       |
 
 Ressources intéressantes :  
 [2018 Developer Skills Report by HackerRank](https://research.hackerrank.com/developer-skills/2018/)  
@@ -61,7 +61,7 @@ Ressources intéressantes :
   - Lisibilité
   - Respect du temps et mise en route rapide
   - Démo
-- Note personnelle		
+		Note personnelle		
   - Maitrise de l'exposé
   - Qualité de la présentation orale (niveau de discours, parler fort en direction de la classe, ...)
   - Réponses aux questions
