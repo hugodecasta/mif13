@@ -20,7 +20,7 @@ Nous allons maintenant traiter des problèmes signalés par Lighthouse.
 
 Depuis l'arrivée de [Let's Encrypt](https://letsencrypt.org/) il n'y a plus d'excuses pour ne pas servir de pages en `https`. 
 
-Si vous utilisez surge, voir la page suivante pour forcer un déploiement en https : https://surge.sh/help/using-https-by-default
+Si vous utilisez surge, voir la page suivante pour forcer un déploiement en https : [https://surge.sh/help/using-https-by-default](https://surge.sh/help/using-https-by-default)
 
 ### Chargements bloquants
 
@@ -28,7 +28,7 @@ Vérifier que les chargements de police de caractère et de css ne sont pas bloq
 
 Permettez le téléchargement et le rendu asynchrone des polices et styles pour accélérer la première peinture. Si vous incluez des polices depuis votre index, chargez les avec `rel="preload"`, en suivant [ces indications](https://alligator.io/html/preload-prefetch/).
 
-** Attention tester plutôt dans Chrome **
+**Attention tester plutôt dans Chrome**
 
 ### App shell
 
@@ -100,7 +100,7 @@ Pour des raisons de portée lié aux services workers le fichier `pwabuilder-sw.
 
 Pour cela il faut modifier le fichier de build prod webpack pour copier le fichier `pwabuilder-sw.js` dans `dist`. On utilise pour cela `CopyWebpackPlugin`. Trouver l'endroit ou il est utilisé dans le fichier webpack.config.prod.js, ou sinon l'ajouter ([voir la doc](https://github.com/webpack-contrib/copy-webpack-plugin)).
 
-```json
+```js
       {
         from: path.resolve(__dirname, '../pwabuilder-sw.js'),
         to: 'pwabuilder-sw.js',
