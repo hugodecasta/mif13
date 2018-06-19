@@ -14,23 +14,27 @@ Voici un exemple de résultat attendu à ce stade du projet :
 
 
 
-Nous allons maintenant traiter des problèmes signalés par 
+Nous allons maintenant traiter des problèmes signalés par Lighthouse.
 
-### Chargements
+### HTTPS
 
-- Vérifier que les chargements de police de caractère et de css ne sont pas bloquants.
+Depuis l'arrivée de [Let's Encrypt](https://letsencrypt.org/) il n'y a plus d'excuses pour ne pas servir de pages en `https`. 
+
+Si vous utilisez surge, voir la page suivante pour forcer un déploiement en https : https://surge.sh/help/using-https-by-default
+
+### Chargements bloquants
+
+Vérifier que les chargements de police de caractère et de css ne sont pas bloquants.
+
+Permettez le téléchargement et le rendu asynchrone des polices et styles pour accélérer la première peinture. Si vous incluez des polices depuis votre index, chargez les avec `rel="preload"`, en suivant [ces indications](https://alligator.io/html/preload-prefetch/).
+
+** Attention tester plutôt dans Chrome **
 
 ### App shell
 
 La manière la plus propre de fournir un appshell efficace, est de faire une partie du rendu de l'application, i.e. la partie sans contenu, ni personalisation côté serveur (ce sera la même pour tout le monde). 1. Cela permet de ne faire le travail qu'une fois; 2. Le contenu peut être mis en cache côté serveur et transféré rapidement; 3. Il y a moins de calculs et de freins pour la première peinture côté client.
 
 Pour des raisons de simplicité nous allons créer un appshell simple en éditant directement l' `index.html` de notre projet.
-
-##### Preload
-
-Permettez le téléchargement et le rendu asynchrone des polices et styles pour accélérer la première peinture. Si vous incluez des polices depuis votre index, chargez les avec `rel="prelaod"`, en suivant [ces indications](https://alligator.io/html/preload-prefetch/).
-
-** Attention tester plutôt dans Chrome **
 
 ##### Bannière / menu
 
@@ -71,11 +75,48 @@ Dans les outils de développement de Chrome il est possible d'inspecter son mani
 
 ### Service Worker et Offline
 
-Créer une page + route offline. On y affichera le trajet du T1 et ses horaires à Université Lyon 1.
+**Nous allons travailler sur la version de production.**  Nous ne voulons pas gérer les caches et le offline sur la version de dev. Idéalement il faudrait plutôt créer une version de pré-production.
 
+##### Chargement des services workers 
 
+Ajouter un script simple qui chargera votre service worker depuis votre index.html
+```js
+      // This is the service worker with the combined offline experience (Offline page + Offline copy of pages)
 
+      // Add this below content to your HTML page, or add the js file to your page at the very top to register service worker
+      if (navigator.serviceWorker.controller) {
+        console.log('[PWA Builder] active service worker found, no need to register')
+      } else {
+      //Register the ServiceWorker
+        navigator.serviceWorker.register('./pwabuilder-sw.js', {
+          scope: './'
+        }).then(function(reg) {
+          console.log('Service worker has been registered for scope:'+ reg.scope);
+        });
+      }
+```
 
+Pour des raisons de portée lié aux services workers le fichier `pwabuilder-sw.js` devra se trouver au même niveau que le fichier index.html dans le dossier `dist`.
+
+Pour cela il faut modifier le fichier de build prod webpack pour copier le fichier `pwabuilder-sw.js` dans `dist`. On utilise pour cela `CopyWebpackPlugin`. Trouver l'endroit ou il est utilisé dans le fichier webpack.config.prod.js, ou sinon l'ajouter ([voir la doc](https://github.com/webpack-contrib/copy-webpack-plugin)).
+
+```json
+      {
+        from: path.resolve(__dirname, '../pwabuilder-sw.js'),
+        to: 'pwabuilder-sw.js',
+        toType: 'file'  
+      }
+```
+
+##### Création du service worker
+
+En s'aidant de [PWAbuilder](https://preview.pwabuilder.com), générer un fichier `pwabuilder-sw.js`. Que vous adapterez au besoin pour mettre en cache les éléments de votre choix.
+
+##### Créer une page dédiée au Offline 
+
+Créer une nouvelle page et une nouvelle route `offline`. Cette page (et ses assets) sera toujours mise en cache et disponible hors-ligne.
+
+Y afficher le [trajet du T1](https://fr.wikipedia.org/wiki/Fichier:Tramway_Lyon_1-plan.svg) et ses [horaires à Université Lyon 1](http://www.tcl.fr/Me-deplacer/Toutes-les-lignes/T1/Horaire-a-l-arret?arret=tcl5505&sens=1).
 
 ### Rendu
 

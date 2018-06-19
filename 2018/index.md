@@ -19,7 +19,7 @@
 | CM 6     | 22/05 |  Stockage de données     | [html](https://perso.liris.cnrs.fr/lionel.medini/enseignement/M1IF13/CM/CM/CM_Storage.html)| L. Medini |
 | CM 7     | 29/05 |  Introduction Web mobile | [pdf](cours/cm7-WebMobile.pdf) | A. Tabard |
 | CM 7 bis | 31/05 |  Web Workers			  | [html](https://perso.liris.cnrs.fr/lmedini/wiki/doku.php?id=m1if13_2018_workers&do=export_revealjs#/) | L. Medini |
-| CM 8     | 19/06 |  Progressive Web Apps    | | A. Tabard |
+| CM 8     | 19/06 |  Progressive Web Apps    | [pdf](cours/cm8-Offline+PWA.pdf) | A. Tabard |
 | CM 9     | 26/06 |  Exposés (14h-16h15)     | | L. Medini |
 
 <!-- CM 10 : Web messaging -->
