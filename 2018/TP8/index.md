@@ -14,11 +14,11 @@ Voici un exemple de résultat attendu à ce stade du projet :
 
 
 
-Nous allons maintenant traiter des problèmes signalés par 
+Nous allons maintenant traiter des problèmes signalés par LightHouse
 
 ### Chargements
 
-- Vérifier que les chargements de police de caractère et de css ne sont pas bloquants.
+- Vérifier que les chargements de polices de caractères et de css ne sont pas bloquants.
 
 ### App shell
 
@@ -51,11 +51,11 @@ Afficher un spinner indiquant que le chargement est en cours.
 </noscript>
 ```
 
-
-
 ### Manifest
 
-Nous allons maintenant rédiger un [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest). Voir l'[exemple de la MSDN](https://developer.mozilla.org/en-US/docs/Web/Manifest) ou celui de [ Google](https://developers.google.com/web/fundamentals/web-app-manifest/)
+Nous allons maintenant rédiger un [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest). Voir l'[exemple de la MDN](https://developer.mozilla.org/en-US/docs/Web/Manifest) ou celui de [Google](https://developers.google.com/web/fundamentals/web-app-manifest/)
+
+<!-- Tu pourrais aussi pointer la spec, stp : https://www.w3.org/TR/appmanifest/ ? -->
 
 Vous pouvez utiliser ce [générateur d'icônes](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) (mais de très nombreux autres sont disponibles).
 
