@@ -59,7 +59,7 @@ Afficher un spinner indiquant que le chargement est en cours.
 
 ### Manifest
 
-Nous allons maintenant rédiger un [Web App Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest). Voir l'[exemple de la MDN](https://developer.mozilla.org/en-US/docs/Web/Manifest) ou celui de [Google](https://developers.google.com/web/fundamentals/web-app-manifest/)
+Nous allons maintenant rédiger un [Web App Manifest](https://www.w3.org/TR/appmanifest/). Voir l'[exemple de la MDN](https://developer.mozilla.org/en-US/docs/Web/Manifest) ou celui de [Google](https://developers.google.com/web/fundamentals/web-app-manifest/)
 
 <!-- Tu pourrais aussi pointer la spec, stp : https://www.w3.org/TR/appmanifest/ ? -->
 
