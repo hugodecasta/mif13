@@ -28,7 +28,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | CreateJS                      | ABDESSALEM, AIFA, CAN, DOUCOURE       |   26/06          |       |
 | PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   26/06          |       |
 | PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   26/06          |       |
-| Phaser                        | BOURDON, CHAY, PRADELLE               |   26/06          |       |
+| Phaser                        | BOURDON, CHAY, PRADELLE               |   26/06          |[Diapo](https://drive.google.com/open?id=1e3oIuss8DzM20D2VwSqibvl4ULeTrniP)       |
 | Progressive Web App           | LAINCEUR, DJEMAOUNE  |   19/06          |       |
 
 Ressources intéressantes :  
