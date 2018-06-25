@@ -19,7 +19,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | Web RTC                       | GIBERT, LEFEBVRE, PALABOST            |   03/04          |[Diapo](https://drive.google.com/file/d/16ntywqpL2gbYif-1_z6_B8O02xLvSu-q/view?usp=sharing)|
 | AB testing                    | CHABOUD, CHEMIN, AUGUSTIN            |   19/06         | |
 | WebAssembly                   | CURRANT, GRANDY, GUEUX                |   26/06          |       |
-| TypeScript                    | SOW, DIALLO, VERA, MARIE MICHAEL RAJ  |   29/05          |       |
+| TypeScript                    | SOW, DIALLO, VERA, MARIE MICHAEL RAJ  |   29/05          |[Diapo](https://drive.google.com/file/d/1kM_CadwlaNKFMrxvyGjdh-9uNhiHFhaU/view)|
 | Web GL                        | NGUYEN, PHAM, NGUYEN, HUYNH           |   26/06          |       |
 | [Meteor](https://www.meteor.com)                        | PEULTIER, FONTAINE, PHAM              |   03/04          |[Diapo](https://docs.google.com/presentation/d/1OWK-K2rrSAeMlZMp_eipvFxwY2uFn0QP7g7msG_CHas)       |
 | A-Frame                       | JIMENEZ, LAFIOSCA    |   22/05          |       |
