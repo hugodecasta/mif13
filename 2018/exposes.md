@@ -24,7 +24,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | [Meteor](https://www.meteor.com)                        | PEULTIER, FONTAINE, PHAM              |   03/04          |[Diapo](https://docs.google.com/presentation/d/1OWK-K2rrSAeMlZMp_eipvFxwY2uFn0QP7g7msG_CHas)       |
 | A-Frame                       | JIMENEZ, LAFIOSCA    |   22/05          |       |
 | [Django](https://www.djangoproject.com/) | BOZON , BELZUNCE , RAMOS TUBINO, FRITSCH | 20/02 |[Diapo](https://docs.google.com/presentation/d/1IVOVZdvF68tM90u75pcHQZ1S_smxvVn2hLf4em7HXbA)    |
-| RequireJS                     | MOUSSA, LAM , LITIM                   |   19/06          |       |
+| RequireJS                     | MOUSSA, LAM , LITIM                   |   19/06          |[Diapo](https://drive.google.com/file/d/1YZxZN_d5KOXG_U3ujlqQDgo0lTbSem53/view?usp=sharing)       |
 | CreateJS                      | ABDESSALEM, AIFA, CAN, DOUCOURE       |   26/06          |       |
 | PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   26/06          |       |
 | PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   26/06          |       |
