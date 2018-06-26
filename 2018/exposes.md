@@ -29,7 +29,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   26/06          |       |
 | PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   26/06          |       |
 | Phaser                        | BOURDON, CHAY, PRADELLE               |   26/06          |[Diapo](https://drive.google.com/open?id=1e3oIuss8DzM20D2VwSqibvl4ULeTrniP)       |
-| Progressive Web App           | LAINCEUR, DJEMAOUNE  |   19/06          |       |
+| Progressive Web App           | LAINCEUR, DJEMAOUNE  |   19/06          |  [Diapo](https://drive.google.com/open?id=14Hf30GWwuIqvgqhLaBLOXVrfPj6MELSo)     |
 
 Ressources intéressantes :  
 [2018 Developer Skills Report by HackerRank](https://research.hackerrank.com/developer-skills/2018/)  
