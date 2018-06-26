@@ -27,7 +27,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | RequireJS                     | MOUSSA, LAM , LITIM                   |   19/06          |[Diapo](https://drive.google.com/file/d/1YZxZN_d5KOXG_U3ujlqQDgo0lTbSem53/view?usp=sharing)       |
 | CreateJS                      | ABDESSALEM, AIFA, CAN, DOUCOURE       |   26/06          |       |
 | PixiJS                        | EYMARD, MICHON, ROBIN, VALLET         |   26/06          |       |
-| PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   26/06          |       |
+| PlayCanvas (GE)               | CASTANEDA, CREVITS, DESPAIGNE         |   26/06          |[Forge](https://forge.univ-lyon1.fr/p1608557/PlayCanvas_WAM)|
 | Phaser                        | BOURDON, CHAY, PRADELLE               |   26/06          |[Diapo](https://drive.google.com/open?id=1e3oIuss8DzM20D2VwSqibvl4ULeTrniP)       |
 | Progressive Web App           | LAINCEUR, DJEMAOUNE  |   19/06          |  [Diapo](https://drive.google.com/open?id=14Hf30GWwuIqvgqhLaBLOXVrfPj6MELSo)     |
 
