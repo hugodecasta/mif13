@@ -38,8 +38,8 @@
 | [TP 6](TP6)        | 22/05 | Stockage de données    	     | rendu 2 |
 | [TP 7](TP7)        | 29/05 | Web mobile, touch et capteurs |         |
 | [TP 7bis](TP7)     | 31/05 | Web mobile, touch et capteurs |         |
-| [TP 8](TP8) | 19/06 | Progressive web apps            | rendu 3 |
-| TP 9        | 26/06 | Web Assembly  (16h30 - 19h00)   | rendu 4 |
+| [TP 8](TP8)        | 19/06 | Progressive web apps          |         |
+| [TP 8](TP8)        | 26/06 | Progressive web apps          | rendu 3 |
 
 
 ## Exposés
