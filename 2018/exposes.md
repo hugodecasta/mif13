@@ -51,6 +51,9 @@ Ressources intéressantes :
 
 ## Conseils de présentation
 
+- tester le portable avec le projecteur avant la présentation dans la salle
+- soyez capable de zoomer sur votre code pour qu'il soit lisible depuis le fond de la salle
+- respecter le temps (= répétez et couper le superflu)
 
 
 ## Critères d'évaluation
