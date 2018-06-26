@@ -20,7 +20,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | AB testing                    | CHABOUD, CHEMIN, AUGUSTIN            |   19/06         |[Diapo](https://docs.google.com/presentation/d/1ho9WKzBRXat1a_ADbYgMhX4Bt-PhBL0i-tXkY0k6xPI/edit?usp=sharing) |
 | WebAssembly                   | CURRANT, GRANDY, GUEUX                |   26/06          |[forge](https://forge.univ-lyon1.fr/p1408219/M1if38-Expose-wasm.git)       |
 | TypeScript                    | SOW, DIALLO, VERA, MARIE MICHAEL RAJ  |   29/05          |[Diapo](https://drive.google.com/file/d/1kM_CadwlaNKFMrxvyGjdh-9uNhiHFhaU/view)|
-| Web GL                        | NGUYEN, PHAM, NGUYEN, HUYNH           |   26/06          |       |
+| Web GL                        | NGUYEN, PHAM, NGUYEN, HUYNH           |   26/06          |[Diapo](https://drive.google.com/drive/folders/1fwoESN2dMKX3PmloXeLvh8HbOrwMmA4j)|
 | [Meteor](https://www.meteor.com)                        | PEULTIER, FONTAINE, PHAM              |   03/04          |[Diapo](https://docs.google.com/presentation/d/1OWK-K2rrSAeMlZMp_eipvFxwY2uFn0QP7g7msG_CHas)       |
 | [A-Frame](https://aframe.io/)                       | JIMENEZ, LAFIOSCA    |   22/05          |[Diapo](https://doublel73.github.io/a-frame/)       |
 | [Django](https://www.djangoproject.com/) | BOZON , BELZUNCE , RAMOS TUBINO, FRITSCH | 20/02 |[Diapo](https://docs.google.com/presentation/d/1IVOVZdvF68tM90u75pcHQZ1S_smxvVn2hLf4em7HXbA)    |
