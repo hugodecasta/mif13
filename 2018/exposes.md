@@ -15,7 +15,7 @@ Cette liste est indicative, vous pouvez proposer d'autres sujets.
 | React                         | CHAPUT, HERAUT, SACCHARIN, BONI       |   29/05          |[Diapo](https://whispering-river-26942.herokuapp.com/)|
 | P5.js                         | SAHIN, HONGOIS, LACOMBE               |   22/05          |[Diapo](https://docs.google.com/presentation/d/1ulbHcHvLX9K7XbCc0L3RgdRjiFZZBK_SoESEX_dYHPM/edit?usp=sharing)|
 | [D3.js](https://d3js.org/)    | LAFOND, NUEL, MARRON                  |   22/05          |[Diapo](https://docs.google.com/presentation/d/1pElMn_OtNqT-9L2zLkzmYSgTIPEbftNvYiwmcJx601Y)       |
-| Less                          | DAVID, DE SOUSA, VIEIRA               |   27/03          |       |
+| Less                          | DAVID, DE SOUSA, VIEIRA               |   27/03          |[Diapo](http://matthieuvieira.free.fr/webavance/less.html)        |
 | Web RTC                       | GIBERT, LEFEBVRE, PALABOST            |   03/04          |[Diapo](https://drive.google.com/file/d/16ntywqpL2gbYif-1_z6_B8O02xLvSu-q/view?usp=sharing)|
 | AB testing                    | CHABOUD, CHEMIN, AUGUSTIN            |   19/06         |[Diapo](https://docs.google.com/presentation/d/1ho9WKzBRXat1a_ADbYgMhX4Bt-PhBL0i-tXkY0k6xPI/edit?usp=sharing) |
 | WebAssembly                   | CURRANT, GRANDY, GUEUX                |   26/06          |       |
